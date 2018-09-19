@@ -1,0 +1,1 @@
+Complete a function that returns the sum of all array elements.

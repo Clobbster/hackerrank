@@ -1,0 +1,9 @@
+Write a function that compares the indecies of two input lists. 
+If list1[0] > list2[0]:
+	Increment variable value by one
+Elif list1[0] < list2[0]:
+	Increment second variable
+Else:
+	Continue
+
+Return an array of the two variables for your response. 
